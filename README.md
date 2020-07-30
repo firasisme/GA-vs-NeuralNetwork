@@ -13,3 +13,6 @@ P-wave velocity is a very important parameter in exploration activities. P-wave 
 - [MATLAB 2017 or later](https://www.mathworks.com/)
 - 4GB RAM or more
 - processor 2 cores or more
+
+## References
+DOI: [10.13140/RG.2.2.32222.59209](https://www.researchgate.net/publication/335907884_Estimation_of_P-Wave_Velocity_with_Genetic_Algorithm_and_Neural_Network_Approach_Based_on_Wireline_Logging_Data?channel=doi&linkId=5d82d90ca6fdcc8fd6f3b1ae&showFulltext=true)
