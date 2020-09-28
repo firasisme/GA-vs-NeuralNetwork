@@ -3,7 +3,13 @@
 
 Comparative research well log prediction: Genetic algorithm vs Neural Network 
 
-**result**
+**Data**
+
+[Ikpikpuk 1 Log Data (LAS)](https://pubs.usgs.gov/of/1999/ofr-99-0015/Wells/Ikpik1/LAS/IK1LAS.htm)
+
+[Ikpikpuk 1 Drilling and Geologic Reports](https://pubs.usgs.gov/of/1999/ofr-99-0015/Wells/Ikpik1/PDF/IK1PDF.htm)
+
+**Result**
 
 ![Image](https://github.com/firasisme/GA-vs-NeuralNetwork/blob/master/GA%20vs%20NN.png)
 
